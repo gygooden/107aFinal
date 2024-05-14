@@ -13,3 +13,4 @@ To run this project, ensure the following are installed, use of venv recommended
 
 ## To Run :
 Run "pytest ReflectedXSSTest.py"
+Replace input file with test data
