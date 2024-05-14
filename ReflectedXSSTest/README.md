@@ -7,8 +7,8 @@ To run this project, ensure the following are installed :
   2. pip3 install -U pytest  
   3. Mozilla Firefox  
 ### Additionally :
-  1. Have geckodriver in your system path https://github.com/mozilla/geckodriver/releases  
-  2. Download and run XVWA in a docker https://github.com/s4n7h0/xvwa --->     https://github.com/tuxotron/xvwa_lamp_container (follow instructions)  
+  1. Move geckodriver to your system path - https://github.com/mozilla/geckodriver/releases  
+  2. Download and run XVWA in a docker https://github.com/s4n7h0/xvwa --->     https://github.com/tuxotron/xvwa_lamp_container (Follow provided instructions)  
 
 ## To Run :
 Run "pytest ReflectedXSSTest.py"
